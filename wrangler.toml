@@ -1,6 +1,7 @@
-name = "anc-expo-management-1"
+name = "anc-expo-management"
 compatibility_date = "2026-07-25"
-pages_build_output_dir = "./dist"
 
 [assets]
 directory = "./dist"
+html_handling = "single-page-app"
+not_found_handling = "single-page-app"
