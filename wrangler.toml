@@ -2,6 +2,4 @@ name = "anc-expo-management-1"
 compatibility_date = "2026-07-25"
 
 [assets]
-directory = "./dist"
-not_found_handling = "single-page-app"
-html_handling = "none"
+directory = "./dist
