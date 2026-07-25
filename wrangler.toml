@@ -1,5 +1,5 @@
-name = "anc-expo-management-1"
+name = "anc-expo-management"
 compatibility_date = "2026-07-25"
 
 [assets]
-directory = "./dist
+directory = "./dist"
